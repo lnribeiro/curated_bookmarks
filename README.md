@@ -1,6 +1,5 @@
 # curated_bookmarks
 
-## Articles
 
 ### Maths, science, engineering
 
@@ -11,6 +10,13 @@
 * [Intuitive Math](https://intuitive-math.club/) - Great linear algebra primer
 * [How strong would a magnetic field have to be to kill you](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/)
 * [Seminal deep learning papers](http://find.xyz/map/9-seminal-deep-learning-papers-696a57a7)
+* [Monte Carlo method for calculating $\pi$](http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html)
+
+### Programming, system administration
+
+* [The art of command line](https://github.com/jlevy/the-art-of-command-line)
+* [Stallman's computing setup](https://stallman.org/stallman-computing.html)
+* [The most important algorithms in CS and maths](https://www3.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html)
 
 ### Productivity, learning, lifestyle
 
@@ -21,10 +27,10 @@
 * [The importance of deep work & the 30-hour method for learning a new skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
 * [Making smartphones dumb again](http://wesmckinney.com/blog/dumb-smartphones/)
 * [Big breakthroughs come in your late 30s](https://www.theatlantic.com/health/archive/2014/02/big-breakthroughs-come-in-your-late-30s/283858/)
+* [I'm a very slow thinker](https://sivers.org/slow)
 
 
-
-## Misc
+### Misc
 
 * [Our world in data](https://ourworldindata.org/) - plots and datasets that describe human civilization
 * [The brick testament](http://www.bricktestament.com/genesis/index.html) - The Old Testament in Lego!
@@ -32,6 +38,6 @@
 * [Hacker news](https://news.ycombinator.com/)
 * [The researcher's bible](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
 
-## Comics
+### Comics
 
 * [Xkcd's "Python environment"](https://xkcd.com/1987/)
