@@ -12,6 +12,7 @@
 * [Seminal deep learning papers](http://find.xyz/map/9-seminal-deep-learning-papers-696a57a7)
 * [Monte Carlo method for calculating $\pi$](http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html)
 * [Mathgen](http://thatsmathematics.com/mathgen/) - randomly generated maths research papers!
+* [Analog computation: what and why](https://www.analogictips.com/analog-computation-part-1-what-and-why/)
 
 ### Programming, system administration
 
