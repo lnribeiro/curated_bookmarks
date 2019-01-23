@@ -23,6 +23,7 @@
 * [Writing a GBA game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 * [http://0.30000000000000004.com](http://0.30000000000000004.com/) - floating point math
 * [The twelve-factor app](https://12factor.net/)
+* [The programmer's compendium](https://www.destroyallsoftware.com/compendium) - Important software programming concepts
 
 ### Productivity, learning, lifestyle
 
