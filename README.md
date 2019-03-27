@@ -13,6 +13,10 @@
 * [Monte Carlo method for calculating $\pi$](http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html)
 * [Mathgen](http://thatsmathematics.com/mathgen/) - randomly generated maths research papers!
 * [Analog computation: what and why](https://www.analogictips.com/analog-computation-part-1-what-and-why/)
+* [The Artificial Intelligence podcast](https://lexfridman.com/ai/)
+* [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/)
+* [Handbook of analog computation](http://www.analogmuseum.org/library/handbook_of_analog_computation.pdf)
+* [Some fundamental theorems in Mathematics](https://arxiv.org/abs/1807.08416)
 
 ### Programming, system administration
 
@@ -23,7 +27,10 @@
 * [Writing a GBA game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 * [http://0.30000000000000004.com](http://0.30000000000000004.com/) - floating point math
 * [The twelve-factor app](https://12factor.net/)
-* 
+* [Software licenses in plain english](https://tldrlegal.com/)
+* [Jeff Atwood's recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+
+
 ### Productivity, learning, lifestyle
 
 * [The daily routines of famous creatives](https://www.shortlist.com/entertainment/the-daily-routines-of-famous-creatives/100408)
@@ -42,6 +49,7 @@
 * [Dedoimedo's "Greatest sites"](https://www.dedoimedo.com/greatest_sites.html)
 * [Hacker news](https://news.ycombinator.com/)
 * [The researcher's bible](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
+* [Doomsday prepping for less crazy folk](http://lcamtuf.coredump.cx/prep/)
 
 ### Comics
 
