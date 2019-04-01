@@ -15,7 +15,8 @@
 * [Analog computation: what and why](https://www.analogictips.com/analog-computation-part-1-what-and-why/)
 * [The Artificial Intelligence podcast](https://lexfridman.com/ai/)
 * [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/)
-* [Handbook of analog computation](http://www.analogmuseum.org/library/handbook_of_analog_computation.pdf)
+* [Systron Donner Handbook of analog computation](http://www.analogmuseum.org/library/handbook_of_analog_computation.pdf)
+* [EAI Handbook of analog computation](https://www.mirrorservice.org/sites/www.bitsavers.org/pdf/eai/EAI_Handbook_of_Analog_Computation_1967.pdf)
 * [Some fundamental theorems in Mathematics](https://arxiv.org/abs/1807.08416)
 
 ### Programming, system administration
