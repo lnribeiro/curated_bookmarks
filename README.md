@@ -30,6 +30,9 @@
 * [The twelve-factor app](https://12factor.net/)
 * [Software licenses in plain english](https://tldrlegal.com/)
 * [Jeff Atwood's recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+* [Software engineering and plumbing](https://www.karllhughes.com/posts/plumbing)
+* [Joel Spolky's "Back to basics"](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
+* [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
 
 ### Productivity, learning, lifestyle
@@ -51,6 +54,7 @@
 * [Hacker news](https://news.ycombinator.com/)
 * [The researcher's bible](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
 * [Doomsday prepping for less crazy folk](http://lcamtuf.coredump.cx/prep/)
+* [GWEI - Google Will Eat Itself](http://www.gwei.org/index.php)
 
 ### Comics
 
