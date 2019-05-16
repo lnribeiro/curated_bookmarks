@@ -1,6 +1,5 @@
 # curated_bookmarks
 
-
 ### Maths, science, engineering
 
 * [The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
@@ -34,7 +33,6 @@
 * [Joel Spolky's "Back to basics"](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 * [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
-
 ### Productivity, learning, lifestyle
 
 * [The daily routines of famous creatives](https://www.shortlist.com/entertainment/the-daily-routines-of-famous-creatives/100408)
@@ -55,7 +53,7 @@
 * [The researcher's bible](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
 * [Doomsday prepping for less crazy folk](http://lcamtuf.coredump.cx/prep/)
 * [GWEI - Google Will Eat Itself](http://www.gwei.org/index.php)
-
+* [Fundamental design principles for non-designers](https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7)
 ### Comics
 
 * [Xkcd's "Python environment"](https://xkcd.com/1987/)
