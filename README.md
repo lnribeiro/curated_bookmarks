@@ -17,6 +17,7 @@
 * [Systron Donner Handbook of analog computation](http://www.analogmuseum.org/library/handbook_of_analog_computation.pdf)
 * [EAI Handbook of analog computation](https://www.mirrorservice.org/sites/www.bitsavers.org/pdf/eai/EAI_Handbook_of_Analog_Computation_1967.pdf)
 * [Some fundamental theorems in Mathematics](https://arxiv.org/abs/1807.08416)
+* [Folha de São Paulo's GPS Ideológico](https://temas.folha.uol.com.br/gps-ideologico/as-bolhas-na-rede-social/entenda-como-o-estudo-foi-feito.shtml)
 
 ### Programming, system administration
 
@@ -32,6 +33,8 @@
 * [Software engineering and plumbing](https://www.karllhughes.com/posts/plumbing)
 * [Joel Spolky's "Back to basics"](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 * [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
+* [Makefile structure](https://calvinkam.github.io/csci3150-Fall17-lab3/makefile-handy-tools-for-compilation/makefile-structure.html)
+* [Convert CSV to ...](http://www.convertcsv.com/)
 
 ### Productivity, learning, lifestyle
 
@@ -54,6 +57,8 @@
 * [Doomsday prepping for less crazy folk](http://lcamtuf.coredump.cx/prep/)
 * [GWEI - Google Will Eat Itself](http://www.gwei.org/index.php)
 * [Fundamental design principles for non-designers](https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7)
+* [Iceland knows how to stop teen substance abuse but the rest of the world isn’t listening](https://mosaicscience.com/story/iceland-prevent-teen-substance-abuse/)
+
 ### Comics
 
 * [Xkcd's "Python environment"](https://xkcd.com/1987/)
