@@ -18,6 +18,7 @@
 * [EAI Handbook of analog computation](https://www.mirrorservice.org/sites/www.bitsavers.org/pdf/eai/EAI_Handbook_of_Analog_Computation_1967.pdf)
 * [Some fundamental theorems in Mathematics](https://arxiv.org/abs/1807.08416)
 * [Folha de São Paulo's GPS Ideológico](https://temas.folha.uol.com.br/gps-ideologico/as-bolhas-na-rede-social/entenda-como-o-estudo-foi-feito.shtml)
+* [Fancy Euclid's "Elements" in TeX](https://habr.com/ru/post/452520/)
 
 ### Programming, system administration
 
