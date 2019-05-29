@@ -59,6 +59,7 @@
 * [GWEI - Google Will Eat Itself](http://www.gwei.org/index.php)
 * [Fundamental design principles for non-designers](https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7)
 * [Iceland knows how to stop teen substance abuse but the rest of the world isn’t listening](https://mosaicscience.com/story/iceland-prevent-teen-substance-abuse/)
+* [Color picker](https://colorsupplyyy.com/app)
 
 ### Comics
 
