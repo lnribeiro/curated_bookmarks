@@ -19,6 +19,7 @@
 * [Some fundamental theorems in Mathematics](https://arxiv.org/abs/1807.08416)
 * [Folha de São Paulo's GPS Ideológico](https://temas.folha.uol.com.br/gps-ideologico/as-bolhas-na-rede-social/entenda-como-o-estudo-foi-feito.shtml)
 * [Fancy Euclid's "Elements" in TeX](https://habr.com/ru/post/452520/)
+* [A field guide to transmission lines](https://hackaday.com/2019/06/11/a-field-guide-to-transmission-lines/)
 
 ### Programming, system administration
 
