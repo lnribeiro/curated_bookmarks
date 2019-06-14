@@ -37,6 +37,7 @@
 * [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 * [Makefile structure](https://calvinkam.github.io/csci3150-Fall17-lab3/makefile-handy-tools-for-compilation/makefile-structure.html)
 * [Convert CSV to ...](http://www.convertcsv.com/)
+* [My journey from MIT to GPL](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html)
 
 ### Productivity, learning, lifestyle
 
