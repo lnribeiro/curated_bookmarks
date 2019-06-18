@@ -38,6 +38,7 @@
 * [Makefile structure](https://calvinkam.github.io/csci3150-Fall17-lab3/makefile-handy-tools-for-compilation/makefile-structure.html)
 * [Convert CSV to ...](http://www.convertcsv.com/)
 * [My journey from MIT to GPL](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html)
+* [SIM swap horror story](https://www.zdnet.com/article/sim-swap-horror-story-ive-lost-decades-of-data-and-google-wont-lift-a-finger/)
 
 ### Productivity, learning, lifestyle
 
