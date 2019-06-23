@@ -20,6 +20,8 @@
 * [Folha de São Paulo's GPS Ideológico](https://temas.folha.uol.com.br/gps-ideologico/as-bolhas-na-rede-social/entenda-como-o-estudo-foi-feito.shtml)
 * [Fancy Euclid's "Elements" in TeX](https://habr.com/ru/post/452520/)
 * [A field guide to transmission lines](https://hackaday.com/2019/06/11/a-field-guide-to-transmission-lines/)
+* [Inside](https://ha.cking.ch/s8_data_line_locator/)
+* [ARIMA model -- complete guide to time series](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 
 ### Programming, system administration
 
@@ -50,6 +52,7 @@
 * [Making smartphones dumb again](http://wesmckinney.com/blog/dumb-smartphones/)
 * [Big breakthroughs come in your late 30s](https://www.theatlantic.com/health/archive/2014/02/big-breakthroughs-come-in-your-late-30s/283858/)
 * [I'm a very slow thinker](https://sivers.org/slow)
+* [Kent Beck on "Writing a book"](https://medium.com/@kentbeck_7670/writing-a-book-47688825695e)
 
 ### Misc
 
