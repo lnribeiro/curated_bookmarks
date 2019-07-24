@@ -20,8 +20,9 @@
 * [Folha de São Paulo's GPS Ideológico](https://temas.folha.uol.com.br/gps-ideologico/as-bolhas-na-rede-social/entenda-como-o-estudo-foi-feito.shtml)
 * [Fancy Euclid's "Elements" in TeX](https://habr.com/ru/post/452520/)
 * [A field guide to transmission lines](https://hackaday.com/2019/06/11/a-field-guide-to-transmission-lines/)
-* [Inside](https://ha.cking.ch/s8_data_line_locator/)
+* [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 * [ARIMA model -- complete guide to time series](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+* [Arxiv horror story](https://www.iqoqi-vienna.at/blog/article/nicolas-gisin/)
 
 ### Programming, system administration
 
