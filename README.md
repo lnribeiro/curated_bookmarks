@@ -67,6 +67,7 @@
 * [Iceland knows how to stop teen substance abuse but the rest of the world isn’t listening](https://mosaicscience.com/story/iceland-prevent-teen-substance-abuse/)
 * [Color picker](https://colorsupplyyy.com/app)
 * [Income disparities jeopardize growth and democracy](https://temas.folha.uol.com.br/global-inequality/)
+* [Toilets of the world](https://toilet-guru.com/)
 
 ### Comics
 
