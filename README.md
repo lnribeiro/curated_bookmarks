@@ -69,6 +69,7 @@
 * [Color picker](https://colorsupplyyy.com/app)
 * [Income disparities jeopardize growth and democracy](https://temas.folha.uol.com.br/global-inequality/)
 * [Toilets of the world](https://toilet-guru.com/)
+* [Wikipedia's vital articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
 
 ### Comics
 
