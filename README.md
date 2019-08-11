@@ -54,6 +54,7 @@
 * [Big breakthroughs come in your late 30s](https://www.theatlantic.com/health/archive/2014/02/big-breakthroughs-come-in-your-late-30s/283858/)
 * [I'm a very slow thinker](https://sivers.org/slow)
 * [Kent Beck on "Writing a book"](https://medium.com/@kentbeck_7670/writing-a-book-47688825695e)
+* [Travel is no cure for the mind](https://medium.com/personal-growth/travel-is-no-cure-for-the-mind-e449d3109d71)
 
 ### Misc
 
@@ -70,6 +71,8 @@
 * [Income disparities jeopardize growth and democracy](https://temas.folha.uol.com.br/global-inequality/)
 * [Toilets of the world](https://toilet-guru.com/)
 * [Wikipedia's vital articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
+* [Are we living in a computer simulation? Let's not find out](https://www.nytimes.com/2019/08/10/opinion/sunday/are-we-living-in-a-computer-simulation-lets-not-find-out.html)
+* [Meaning of life (Wikipedia)](https://en.wikipedia.org/wiki/Meaning_of_life)
 
 ### Comics
 
