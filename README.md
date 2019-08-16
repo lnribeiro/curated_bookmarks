@@ -23,6 +23,7 @@
 * [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 * [ARIMA model -- complete guide to time series](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 * [Arxiv horror story](https://www.iqoqi-vienna.at/blog/article/nicolas-gisin/)
+* [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.blogspot.com/2017/01/twelve-latex-packages-to-get-your-paper.html) 
 
 ### Programming, system administration
 
