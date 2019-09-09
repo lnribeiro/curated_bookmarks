@@ -25,6 +25,7 @@
 * [Arxiv horror story](https://www.iqoqi-vienna.at/blog/article/nicolas-gisin/)
 * [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.blogspot.com/2017/01/twelve-latex-packages-to-get-your-paper.html)
 * [On mathematical beauty in Physics](https://blogs.unimelb.edu.au/sciencecommunication/2017/09/24/on-mathematical-beauty-in-physics/)
+* [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
 
 ### Programming, system administration
 
