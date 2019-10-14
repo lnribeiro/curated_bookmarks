@@ -46,6 +46,7 @@
 * [My journey from MIT to GPL](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html)
 * [SIM swap horror story](https://www.zdnet.com/article/sim-swap-horror-story-ive-lost-decades-of-data-and-google-wont-lift-a-finger/)
 * [The architecture of open source applications](https://www.aosabook.org/en/index.html)
+* [Collapse OS](https://collapseos.org/why.html)
 
 ### Productivity, learning, lifestyle
 
@@ -77,6 +78,7 @@
 * [Wikipedia's vital articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
 * [Are we living in a computer simulation? Let's not find out](https://www.nytimes.com/2019/08/10/opinion/sunday/are-we-living-in-a-computer-simulation-lets-not-find-out.html)
 * [Meaning of life (Wikipedia)](https://en.wikipedia.org/wiki/Meaning_of_life)
+* [The Reason Renewables Can't Power Modern Civilization Is Because They Were Never Meant To](https://www.forbes.com/sites/michaelshellenberger/2019/05/06/the-reason-renewables-cant-power-modern-civilization-is-because-they-were-never-meant-to/#5d124ea1ea2b)
 
 ### Comics
 
