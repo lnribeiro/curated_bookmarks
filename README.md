@@ -48,9 +48,10 @@
 * [The architecture of open source applications](https://www.aosabook.org/en/index.html)
 * [Collapse OS](https://collapseos.org/why.html)
 * [Motherfucking website](http://motherfuckingwebsite.com/)
-* [https://www.tug.org/levels.html](The levels of TeX)
-* [https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference] Microsoft's C++ language reference
-* [https://www.bfilipek.com/2019/10/cppecosystem.html] C++ ecosystem: compilers, IDEs, tools, testing and more
+* [The levels of TeX](https://www.tug.org/levels.html)
+* [Microsoft's C++ language reference](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference)
+* [C++ ecosystem: compilers, IDEs, tools, testing and more](https://www.bfilipek.com/2019/10/cppecosystem.html)
+* [Awesome modern C++ resources](https://github.com/rigtorp/awesome-modern-cpp)
 
 ### Productivity, learning, lifestyle
 
@@ -82,7 +83,7 @@
 * [Wikipedia's vital articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
 * [Are we living in a computer simulation? Let's not find out](https://www.nytimes.com/2019/08/10/opinion/sunday/are-we-living-in-a-computer-simulation-lets-not-find-out.html)
 * [Meaning of life (Wikipedia)](https://en.wikipedia.org/wiki/Meaning_of_life)
-* [The Reason Renewables Can't Power Modern Civilization Is Because They Were Never Meant To](https://www.forbes.com/sites/michaelshellenberger/2019/05/06/the-reason-renewables-cant-power-modern-civilization-is-because-they-were-never-meant-to/#5d124ea1ea2b)
+* [The reason renewables can't power modern civilization is because they were never meant to](https://www.forbes.com/sites/michaelshellenberger/2019/05/06/the-reason-renewables-cant-power-modern-civilization-is-because-they-were-never-meant-to/#5d124ea1ea2b)
 
 ### Comics
 
