@@ -49,6 +49,8 @@
 * [Collapse OS](https://collapseos.org/why.html)
 * [Motherfucking website](http://motherfuckingwebsite.com/)
 * [https://www.tug.org/levels.html](The levels of TeX)
+* [https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference] Microsoft's C++ language reference
+* [https://www.bfilipek.com/2019/10/cppecosystem.html] C++ ecosystem: compilers, IDEs, tools, testing and more
 
 ### Productivity, learning, lifestyle
 
