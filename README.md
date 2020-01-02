@@ -47,6 +47,8 @@
 * [SIM swap horror story](https://www.zdnet.com/article/sim-swap-horror-story-ive-lost-decades-of-data-and-google-wont-lift-a-finger/)
 * [The architecture of open source applications](https://www.aosabook.org/en/index.html)
 * [Collapse OS](https://collapseos.org/why.html)
+* [Motherfucking website](http://motherfuckingwebsite.com/)
+* [https://www.tug.org/levels.html](The levels of TeX)
 
 ### Productivity, learning, lifestyle
 
