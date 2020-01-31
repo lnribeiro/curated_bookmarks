@@ -52,6 +52,7 @@
 * [Microsoft's C++ language reference](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference)
 * [C++ ecosystem: compilers, IDEs, tools, testing and more](https://www.bfilipek.com/2019/10/cppecosystem.html)
 * [Awesome modern C++ resources](https://github.com/rigtorp/awesome-modern-cpp)
+* [TLDR pages](https://tldr.sh/)
 
 ### Productivity, learning, lifestyle
 
