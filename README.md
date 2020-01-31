@@ -84,6 +84,7 @@
 * [Are we living in a computer simulation? Let's not find out](https://www.nytimes.com/2019/08/10/opinion/sunday/are-we-living-in-a-computer-simulation-lets-not-find-out.html)
 * [Meaning of life (Wikipedia)](https://en.wikipedia.org/wiki/Meaning_of_life)
 * [The reason renewables can't power modern civilization is because they were never meant to](https://www.forbes.com/sites/michaelshellenberger/2019/05/06/the-reason-renewables-cant-power-modern-civilization-is-because-they-were-never-meant-to/#5d124ea1ea2b)
+* [All about recycling in Germany](https://www.howtogermany.com/pages/recycling.html)
 
 ### Comics
 
