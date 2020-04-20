@@ -26,6 +26,7 @@
 * [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.blogspot.com/2017/01/twelve-latex-packages-to-get-your-paper.html)
 * [On mathematical beauty in Physics](https://blogs.unimelb.edu.au/sciencecommunication/2017/09/24/on-mathematical-beauty-in-physics/)
 * [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
+* [Physics travel guide](https://physicstravelguide.com/)
 
 ### Programming, system administration
 
@@ -53,6 +54,7 @@
 * [C++ ecosystem: compilers, IDEs, tools, testing and more](https://www.bfilipek.com/2019/10/cppecosystem.html)
 * [Awesome modern C++ resources](https://github.com/rigtorp/awesome-modern-cpp)
 * [TLDR pages](https://tldr.sh/)
+* [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
 ### Productivity, learning, lifestyle
 
