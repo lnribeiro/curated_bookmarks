@@ -27,6 +27,7 @@
 * [On mathematical beauty in Physics](https://blogs.unimelb.edu.au/sciencecommunication/2017/09/24/on-mathematical-beauty-in-physics/)
 * [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
 * [Physics travel guide](https://physicstravelguide.com/)
+* [List of unsolved problems in various academic fields](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
 
 ### Programming, system administration
 
@@ -55,6 +56,7 @@
 * [Awesome modern C++ resources](https://github.com/rigtorp/awesome-modern-cpp)
 * [TLDR pages](https://tldr.sh/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+* [Hyperpolyglot -- commonly used features of programming languages in a side-by-side format](https://hyperpolyglot.org/)
 
 ### Productivity, learning, lifestyle
 
@@ -89,6 +91,8 @@
 * [The reason renewables can't power modern civilization is because they were never meant to](https://www.forbes.com/sites/michaelshellenberger/2019/05/06/the-reason-renewables-cant-power-modern-civilization-is-because-they-were-never-meant-to/#5d124ea1ea2b)
 * [All about recycling in Germany](https://www.howtogermany.com/pages/recycling.html)
 * [Awesome lists repository](https://github.com/sindresorhus/awesome)
+* [Acronymify](https://acronymify.com/)
+* [diagrams.net](https://app.diagrams.net/)
 
 ### Comics
 
