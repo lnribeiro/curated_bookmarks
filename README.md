@@ -28,6 +28,7 @@
 * [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
 * [Physics travel guide](https://physicstravelguide.com/)
 * [List of unsolved problems in various academic fields](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
+* [The Law of Large Numbers: it's not the Central Limit Theorem](http://rex-analytics.com/the-law-of-large-numbers-its-not-the-central-limit-theorem/)
 
 ### Programming, system administration
 
