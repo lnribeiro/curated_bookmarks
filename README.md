@@ -12,7 +12,6 @@
 * [Monte Carlo method for calculating $\pi$](http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html)
 * [Mathgen](http://thatsmathematics.com/mathgen/) - randomly generated maths research papers!
 * [Analog computation: what and why](https://www.analogictips.com/analog-computation-part-1-what-and-why/)
-* [The Artificial Intelligence podcast](https://lexfridman.com/ai/)
 * [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/)
 * [Systron Donner Handbook of analog computation](http://www.analogmuseum.org/library/handbook_of_analog_computation.pdf)
 * [EAI Handbook of analog computation](https://www.mirrorservice.org/sites/www.bitsavers.org/pdf/eai/EAI_Handbook_of_Analog_Computation_1967.pdf)
@@ -21,12 +20,12 @@
 * [Fancy Euclid's "Elements" in TeX](https://habr.com/ru/post/452520/)
 * [A field guide to transmission lines](https://hackaday.com/2019/06/11/a-field-guide-to-transmission-lines/)
 * [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
-* [ARIMA model -- complete guide to time series](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+* [ARIMA model](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) - a complete guide to ARIMA time series
 * [Arxiv horror story](https://www.iqoqi-vienna.at/blog/article/nicolas-gisin/)
 * [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.blogspot.com/2017/01/twelve-latex-packages-to-get-your-paper.html)
 * [On mathematical beauty in Physics](https://blogs.unimelb.edu.au/sciencecommunication/2017/09/24/on-mathematical-beauty-in-physics/)
 * [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
-* [Physics travel guide](https://physicstravelguide.com/)
+* [Physics travel guide](https://physicstravelguide.com/) - expository physics wiki
 * [List of unsolved problems in various academic fields](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
 * [The Law of Large Numbers: it's not the Central Limit Theorem](http://rex-analytics.com/the-law-of-large-numbers-its-not-the-central-limit-theorem/)
 * [Communication technology through the new decade](https://yp.comsoc.org/communication-technology-through-the-new-decade/)
