@@ -29,6 +29,9 @@
 * [Physics travel guide](https://physicstravelguide.com/)
 * [List of unsolved problems in various academic fields](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
 * [The Law of Large Numbers: it's not the Central Limit Theorem](http://rex-analytics.com/the-law-of-large-numbers-its-not-the-central-limit-theorem/)
+* [Communication technology through the new decade](https://yp.comsoc.org/communication-technology-through-the-new-decade/)
+* [Sharenote's 5G NR Handbook](https://www.sharetechnote.com/html/5G/Handbook_5G_Index.html)
+* [AI expert roadmap](https://i.am.ai/roadmap/)
 
 ### Programming, system administration
 
@@ -58,6 +61,10 @@
 * [TLDR pages](https://tldr.sh/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [Hyperpolyglot -- commonly used features of programming languages in a side-by-side format](https://hyperpolyglot.org/)
+* [Data structures and algorithms actually used at tech companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+* [Rosetta code: a programming chrestomathy site](https://rosettacode.org/wiki/Rosetta_Code)
+* [Competitive programming algorithms](https://cp-algorithms.com/)
+* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ### Productivity, learning, lifestyle
 
@@ -71,6 +78,8 @@
 * [I'm a very slow thinker](https://sivers.org/slow)
 * [Kent Beck on "Writing a book"](https://medium.com/@kentbeck_7670/writing-a-book-47688825695e)
 * [Travel is no cure for the mind](https://medium.com/personal-growth/travel-is-no-cure-for-the-mind-e449d3109d71)
+* [Keeping track of your research projects with Kanban](https://veronikach.com/habits-productivity/keeping-track-of-your-research-projects-with-kanban/)
+* [What does Science say about happiness?](https://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 
 ### Misc
 
@@ -93,7 +102,8 @@
 * [All about recycling in Germany](https://www.howtogermany.com/pages/recycling.html)
 * [Awesome lists repository](https://github.com/sindresorhus/awesome)
 * [Acronymify](https://acronymify.com/)
-* [diagrams.net](https://app.diagrams.net/)
+* [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
+* [Dark Ages of the Web](https://pavellaptev.github.io/web-dark-ages/)
 
 ### Comics
 
