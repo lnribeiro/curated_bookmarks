@@ -60,7 +60,7 @@
 * [Awesome modern C++ resources](https://github.com/rigtorp/awesome-modern-cpp)
 * [TLDR pages](https://tldr.sh/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-* [Hyperpolyglot -- commonly used features of programming languages in a side-by-side format](https://hyperpolyglot.org/)
+* [Hyperpolyglot](https://hyperpolyglot.org/) - commonly used features of programming languages in a side-by-side format
 * [Data structures and algorithms actually used at tech companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * [Rosetta code: a programming chrestomathy site](https://rosettacode.org/wiki/Rosetta_Code)
 * [Competitive programming algorithms](https://cp-algorithms.com/)
