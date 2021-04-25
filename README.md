@@ -31,6 +31,7 @@
 * [Communication technology through the new decade](https://yp.comsoc.org/communication-technology-through-the-new-decade/)
 * [Sharenote's 5G NR Handbook](https://www.sharetechnote.com/html/5G/Handbook_5G_Index.html)
 * [AI expert roadmap](https://i.am.ai/roadmap/)
+* [Machine learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 
 ### Programming, system administration
 
@@ -64,6 +65,7 @@
 * [Rosetta code: a programming chrestomathy site](https://rosettacode.org/wiki/Rosetta_Code)
 * [Competitive programming algorithms](https://cp-algorithms.com/)
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [Pandoc - a universal document converter](https://pandoc.org/)
 
 ### Productivity, learning, lifestyle
 
@@ -103,6 +105,8 @@
 * [Acronymify](https://acronymify.com/)
 * [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
 * [Dark Ages of the Web](https://pavellaptev.github.io/web-dark-ages/)
+* [Netflix global search](http://unogs.com/)
+
 
 ### Comics
 
